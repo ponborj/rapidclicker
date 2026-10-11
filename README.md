@@ -13,6 +13,8 @@ Aplicativo leve para Windows que automatiza cliques do botão esquerdo do mouse 
 
 ## Download e uso
 
+Baixe a versão mais recente na página de [Releases](https://github.com/ponborj/rapidclicker/releases/latest).
+
 Baixe `RapidClicker.exe`, abra o arquivo e escolha o intervalo desejado. Posicione o cursor sobre a área que receberá os cliques e pressione `F6`.
 
 Pressione `F6` novamente para pausar ou `F7` para encerrar. O programa também pode ser controlado pelo ícone na bandeja do sistema.
